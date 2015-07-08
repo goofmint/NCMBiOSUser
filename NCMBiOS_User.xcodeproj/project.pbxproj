@@ -93,6 +93,7 @@
 		12B7549A1B3878060070EC7C /* NCMBiOS_User */ = {
 			isa = PBXGroup;
 			children = (
+				123361BD1B4D09300026D343 /* Settings.swift */,
 				12B7549D1B3878060070EC7C /* AppDelegate.swift */,
 				12B754C31B387E790070EC7C /* LoginViewController.swift */,
 				12B7549F1B3878060070EC7C /* MasterViewController.swift */,
@@ -102,7 +103,6 @@
 				12B754A61B3878060070EC7C /* Images.xcassets */,
 				12B754A81B3878060070EC7C /* LaunchScreen.xib */,
 				12B7549B1B3878060070EC7C /* Supporting Files */,
-				123361BD1B4D09300026D343 /* Settings.swift */,
 			);
 			path = NCMBiOS_User;
 			sourceTree = "<group>";
